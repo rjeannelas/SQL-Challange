@@ -1,10 +1,10 @@
-# SQL-Challange
+# SQL-Challange:  Employee Database
 Utilize skills to perform data modeling, data engineering, and data analysis
 
 Background
-It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s.
+It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s.
 
-Design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data.
+In this CHALLENGE, design the tables to hold the data from six CSV files, import the CSV files into a SQL database, and then answer questions about the data.
 
 
 Instructions
