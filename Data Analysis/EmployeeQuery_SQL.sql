@@ -24,8 +24,7 @@
 	JOIN employees AS e
 	ON dmgr.emp_no = e.emp_no;
 
-/*4. List the department of each employee with the following information: 
-employee number, last name, first name, and department name.*/
+/*4. List the department of each employee with the following information: employee number, last name, first name, and department name.*/
 
 	SELECT employees.emp_no, employees.last_name, employees.first_name, departments.dept_name
 	FROM employees
