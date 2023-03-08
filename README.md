@@ -9,7 +9,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 In this CHALLENGE, design the tables to hold the data from six CSV files, import the CSV files into a SQL database, and then answer questions about the data.
 
 
-## Instructions
+# Instructions
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
