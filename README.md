@@ -13,7 +13,7 @@ In this CHALLENGE, design the tables to hold the data from six CSV files, import
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
-##Data Modeling
+### Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
