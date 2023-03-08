@@ -2,14 +2,14 @@
 
 Utilize skills to perform data modeling, data engineering, and data analysis
 
-##Background
+## Background
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s.
 
 In this CHALLENGE, design the tables to hold the data from six CSV files, import the CSV files into a SQL database, and then answer questions about the data.
 
 
-##Instructions
+## Instructions
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
@@ -17,7 +17,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
-##Data Engineering
+## Data Engineering
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -30,7 +30,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 Import each CSV file into its corresponding SQL table.
 
 
-##Data Analysis
+## Data Analysis
 
   1. List the employee number, last name, first name, sex, and salary of each employee.
   2. List the first name, last name, and hire date for the employees who were hired in 1986.
