@@ -17,7 +17,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
-## Data Engineering
+### Data Engineering
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -30,7 +30,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 Import each CSV file into its corresponding SQL table.
 
 
-## Data Analysis
+### Data Analysis
 
   1. List the employee number, last name, first name, sex, and salary of each employee.
   2. List the first name, last name, and hire date for the employees who were hired in 1986.
